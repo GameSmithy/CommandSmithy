@@ -1,0 +1,19 @@
+{
+    "name": "gamesmithy.commandsmithy.Editor.Tests",
+    "references": [
+        "gamesmithy.commandsmithy.Runtime",
+        "gamesmithy.commandsmithy.Editor"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
