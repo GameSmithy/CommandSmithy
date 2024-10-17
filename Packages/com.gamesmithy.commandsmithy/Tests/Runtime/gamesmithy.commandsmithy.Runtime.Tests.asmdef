@@ -1,7 +1,7 @@
 {
-    "name": "gamesmithy.statesmithy.Runtime.Tests",
+    "name": "gamesmithy.commandsmithy.Runtime.Tests",
     "references": [
-        "gamesmithy.statesmithy.Runtime"
+        "gamesmithy.commandsmithy.Runtime"
     ],
     "optionalUnityReferences": [
         "TestAssemblies"
