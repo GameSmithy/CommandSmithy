@@ -1,0 +1,17 @@
+{
+    "name": "com.gamesmithy.commandsmithy",
+    "version": "1.0.3",
+    "displayName": "CommandSmithy",
+    "description": "simple command pattern",
+    "unity": "2022.1",
+    "keywords": [
+        "command",
+        "state",
+        "mvc"
+    ],
+    "author": {
+        "name": "Dmitry Turovskiy",
+        "email": "3dorange@gmail.com",
+        "url": ""
+    }
+}
